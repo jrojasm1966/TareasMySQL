@@ -3,6 +3,7 @@
 -- Host: localhost    Database: friends
 -- ------------------------------------------------------
 -- Server version	5.7.19
+create schema friends;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
