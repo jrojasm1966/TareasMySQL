@@ -20,8 +20,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 create schema sakila;
-use sakila;
-
 
 # Dump of table actor
 # ------------------------------------------------------------
